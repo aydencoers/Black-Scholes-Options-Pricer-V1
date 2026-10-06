@@ -1,10 +1,10 @@
 # Black-Scholes Options Pricing Calculator
 
-A from-scratch Python implementation of the Black-Scholes-Merton model for
+A Claude Coded Python implementation of the Black-Scholes-Merton model for
 pricing European options, complete with all five major Greeks, an implied
 volatility solver, correctness tests, and both a terminal demo and an
 **interactive Streamlit web app** for exploring price, the Greeks, and
-options strategy payoffs live.
+options strategy payoffs live. One of my first projects in Finance & Risk, while I am still building python skills.
 
 Built as a portfolio project to demonstrate practical understanding of
 options pricing theory and risk sensitivities — not just the ability to
